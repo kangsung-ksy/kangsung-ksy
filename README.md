@@ -1,4 +1,4 @@
-## I like deep neural networks 👋
+## I am Integration Architect.POLYMATH👋
 
 <!--
 **kangsung-ksy/kangsung-ksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
